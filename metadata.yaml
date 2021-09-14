@@ -1,5 +1,8 @@
 _repo: The-Abergeldie-Winter-Book_66234
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66234-h/images/cover.jpg
 creator:
   author:
     agent_name: Riego de la Branchardière, Eléonore
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '33346'
     url: http://www.gutenberg.org/2009/agents/33346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66234#The-Abergeldie-Winter-Book
 gutenberg_issued: '2021-09-07'
 identifiers:
   gutenberg: '66234'
